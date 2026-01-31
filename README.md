@@ -42,6 +42,3 @@ We implemented a composite index on `(student_id, scan_timestamp)`.
 ```sql
 CREATE INDEX idx_student_time ON attendance_logs(student_id, scan_timestamp);
 ```
----
-📄 **[View Full Analysis Report](https://htmlpreview.github.io/?https://github.com/sanaurrehmanarain/FaceRecog-DB-Core-SQL/blob/main/SQL_SCENARIOS.md)**
----
