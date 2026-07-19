@@ -54,7 +54,7 @@ to obtain citations in BibTeX, APA, and other supported formats.
 
 **Suggested citation:**
 
-Arain, S. U. R. (2026). [Project Name] (Version 1.0) [Software].
+Arain, S. U. R. (2026). FaceRecog-DB-Core-SQL (Version 1.0) [Software].
 <https://github.com/sanaurrehmanarain/FaceRecog-DB-Core-SQL>
 
 **Author:** Sana Ur Rehman Arain
