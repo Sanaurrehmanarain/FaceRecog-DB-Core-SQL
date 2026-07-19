@@ -42,3 +42,38 @@ We implemented a composite index on `(student_id, scan_timestamp)`.
 ```sql
 CREATE INDEX idx_student_time ON attendance_logs(student_id, scan_timestamp);
 ```
+
+## Citation
+
+If you use this project in academic research, publications, educational
+materials, or derivative works, please cite the project.
+
+This repository includes a `CITATION.cff` file, so GitHub provides a
+**"Cite this repository"** button in the repository sidebar. You can use it
+to obtain citations in BibTeX, APA, and other supported formats.
+
+**Suggested citation:**
+
+Arain, S. U. R. (2026). [Project Name] (Version 1.0) [Software].
+<https://github.com/sanaurrehmanarain/FaceRecog-DB-Core-SQL>
+
+**Author:** Sana Ur Rehman Arain
+
+**Profession:** Data Scientist
+
+**GitHub:** <https://github.com/sanaurrehmanarain>
+
+**Contact:** <sana.arain.work@gmail.com>
+
+If you build upon this work, attribution is appreciated and helps others
+discover the original project.
+
+> **Note:** The MIT License requires that the original copyright
+> notice be retained in copies of the Software.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the
+[LICENSE](LICENSE) file for details.
